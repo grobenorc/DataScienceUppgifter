@@ -61,7 +61,7 @@ import numpy as np
 import random
 import pandas as pd
 import os
-os.chdir('C:/Users/claes/OneDrive/Universitet/DataScience Magisterprogram/STAN48 - Programmering för Data Science/Inlämningar/Project')
+os.chdir('xxx')
 
 # %% Card deck
 def generate_card_deck():
